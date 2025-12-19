@@ -1,0 +1,6 @@
+[submodule "Meeting-transcript-summarization-using-Transformer"]
+	path = Meeting-transcript-summarization-using-Transformer
+	url = https://github.com/alibadawi25/Meeting-transcript-summarization-using-Transformer.git
+[submodule "Meeting-transcript-summarization-using-Transformer-backend"]
+	path = Meeting-transcript-summarization-using-Transformer-backend
+	url = https://github.com/waryoyo/Meeting-transcript-summarization-using-Transformer-backend.git
